@@ -72,3 +72,31 @@ This project presents an in-depth **Exploratory Data Analysis (EDA)** on an air 
 - **EDA:** Visualizations for trends and patterns.
 - **Modeling:** Linear regression with evaluation metrics.
 
+## 📈 Sample Output
+
+- Strong positive correlation between `pollutant_max` and `pollutant_avg`.
+- Delhi, Ghaziabad, and Kanpur among the most polluted cities.
+- Clear visualization of pollution clusters and outliers.
+
+## 🔮 Future Scope
+
+- Integrate with **geospatial tools** like Folium.
+- Perform **time-series forecasting** of pollution levels.
+- Deploy **IoT-based real-time monitoring**.
+- Use **classification and clustering algorithms** for deeper insights.
+
+## 🧾 References
+
+- [Pandas Documentation](https://pandas.pydata.org/)
+- [Seaborn Documentation](https://seaborn.pydata.org/)
+- [Scikit-learn Documentation](https://scikit-learn.org/stable/)
+- [Matplotlib Documentation](https://matplotlib.org/)
+- *Wes McKinney, Python for Data Analysis*, O’Reilly Media
+
+---
+
+📌 **Declaration:**  
+This project is the original academic work of Shikhar Agrawal and was submitted as part of the coursework for INT375.
+
+📧 For queries or collaborations, feel free to reach out via LinkedIn: [LinkedIn Profile](#)
+
