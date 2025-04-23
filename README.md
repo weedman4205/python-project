@@ -10,4 +10,11 @@ This project presents an in-depth **Exploratory Data Analysis (EDA)** on an air 
 - **Semester:** January - April 2025
 - **Supervisor:** Ms. Maneet Kaur
 
-- 
+## 🧠 Objectives
+
+- Understand trends and hotspots in air pollution data.
+- Visualize pollutant types, city-wise and state-wise distributions.
+- Examine the relationship between pollutant values using correlation and regression.
+- Identify outliers and clusters in pollution levels.
+- Explore geographical patterns using latitude and longitude.
+
