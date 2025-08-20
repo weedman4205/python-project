@@ -17,6 +17,14 @@ df.columns = df.columns.str.strip()
 
 # Step 2: Handle missing values
 print("\nMissing Values: \n", df.isnull().sum())                #Summing missing values columns wise
+
+#Visualizing missing data with a heatmap
+plt.figure(figsize=(10, 6))
+sns.heatmap(df.isnull(), cbar=False, cmap='viridis', yticklabels=False)
+plt.title("Missing Data Heatmap")
+plt.tight_layout()
+plt.show()
+
 print("\nMissing Values: \n", df.isnull().sum().sum())          #Summing all the columns missing values 
 
 # Filling missing value with mean
